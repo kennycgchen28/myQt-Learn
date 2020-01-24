@@ -10,4 +10,4 @@ QMAKESPEC=win32-msvc
 在PATH变量中加
 %QTDIR%\bin;%QTDIR%\lib;
 # 3.qt console app 测试
-![Alt qDebug](.\img02.png)
+![Alt qDebug](img02.png)
