@@ -1,13 +1,13 @@
-# QT-学习
-## Qt5 安装
+# QT-瀛︿範
+## Qt5 瀹夎
 -----------
-# 1.QT 下载地址
+# 1.QT 涓嬭浇鍦板潃
 http://download.qt.io/archive/qt/5.11/5.11.1/single
-# 2.安装QT成功设置环境变量
+# 2.瀹夎QT鎴愬姛璁剧疆鐜鍙橀噺
 QTDIR=C:\Qt\Qt5.7.0
 QMAKESPEC=win32-msvc
 
-在PATH变量中加
+鍦≒ATH鍙橀噺涓姞
 %QTDIR%\bin;%QTDIR%\lib;
-# 3.qt console app 测试
-![Alt qDebug](D:\Qt\qt-pro\img02.png)
+# 3.qt console app 娴嬭瘯
+![Alt qDebug](.\img02.png)
